@@ -1,0 +1,10 @@
+{
+  "name": "test_rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.6.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
